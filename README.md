@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 💻 I'm a Full Stack Web Developer.
+- 💻 I'm a Junior Full Stack Web Developer.
 - 🎓 I graduated with a Bachelor's degree in Information Technology.
 - 🔭 Currently developing business management systems and RESTful APIs.
 - 🌱 Improving my skills in Laravel, Vue.js, and backend development.
@@ -30,12 +30,12 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,bootstrap" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,bootstrap" alt="Frontend Technologies" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,Golang" alt="Backend Technologies" />
 </p>
 
 ### Database
@@ -45,7 +45,7 @@
 
 ### Tools & Other Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,flutter" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,flutter" alt="Development Tools" />
 </p>
 
 ---
