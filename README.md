@@ -45,7 +45,7 @@
 
 ### Tools & Other Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,flutter" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,flutter" alt="Development Tools" />
 </p>
 
 ---
