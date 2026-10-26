@@ -30,12 +30,12 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,bootstrap" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,bootstrap" alt="Frontend Technologies" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,Golang" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,go" alt="Backend Technologies" />
 </p>
 
 ### Database
