@@ -67,7 +67,7 @@
 - Includes discrepancy tracking and manager approval workflows.
 - Built with Vue.js, Vuetify, Laravel, and MySQL.
 
-> Replace these descriptions with your actual repository links and project details.
+> More small project.
 
 ---
 
