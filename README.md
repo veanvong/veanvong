@@ -40,7 +40,7 @@
 
 ### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database Technologies" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Database Technologies" />
 </p>
 
 ### Tools & Other Technologies
