@@ -30,7 +30,7 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,tailwind,bootstrap" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,vuexy,react,tailwind,bootstrap" alt="Frontend Technologies" />
 </p>
 
 ### Backend
